@@ -2,6 +2,9 @@
 <h3 align="center">A Web developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
+
+
+
 -🔭 I’m currently working on Home
 
 -👯 I’m looking to collaborate on GitHub
