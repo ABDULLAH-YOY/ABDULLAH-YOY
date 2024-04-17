@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm I'm Abdullah Al Nirob.</h1>
 <h3 align="center">A Web developer from Bangladesh</h3>
--🔭 I’m currently working on Home
--👯 I’m looking to collaborate on GitHub
--🌱 I’m currently learning Javascript 
--💬 Ask me about Web development 
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+-🔭 I’m currently working on Home
+
+-👯 I’m looking to collaborate on GitHub
+
+-🌱 I’m currently learning Javascript 
+
+-💬 Ask me about Web development 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-yoy&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-yoy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-yoy" alt="abdullah-yoy" /></a> </p>
