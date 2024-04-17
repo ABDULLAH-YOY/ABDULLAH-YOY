@@ -1,22 +1,22 @@
-### Hi there 👋, Hi, I'm Abdullah Al Nirob.
-#### Web developer 
-![Web developer ](https://scontent.fdac160-1.fna.fbcdn.net/v/t39.30808-6/405319769_921186333048470_2687358573172548761_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFh4e90vUQCb53pIFZVCYsXGftYUu7qazYZ-1hS7uprNu9ada0KTm1HwFIypHTjpa5O-WQ6yHoqBuhR7C0xEz3n&_nc_ohc=2vKJjpL2BqsAb7CVcvH&_nc_ht=scontent.fdac160-1.fna&oh=00_AfBdQAyp3GgqUI99Kop0foKgC9AdMBJkW0GqVoTIkDCRjQ&oe=6625CF52)
+<h1 align="center">Hi 👋, I'm I'm Abdullah Al Nirob.</h1>
+<h3 align="center">A Web developer from Bangladesh</h3>
 
-Hey, My name is Abdullah Al Nirob, I'm a Web developer . I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I love coding and technology very much.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-yoy&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-yoy" /> </p>
 
-Skills: REACT / JS / HTML / CSS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-yoy" alt="abdullah-yoy" /></a> </p>
 
-- 🔭 I’m currently working on Home 
-- 🌱 I’m currently learning Javascript  
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web development  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/dev.abdullahalnirob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.abdullahalnirob" height="30" width="40" /></a>
+<a href="https://instagram.com/com.abdullah.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="com.abdullah.exe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@always_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@always_code" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ABDULLAH-YOY/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/dev.abdullahalnirob)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagramcom/com.abdullah.exe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/@always_code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](abdullahalnirob.netlify.app )  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-yoy&show_icons=true&locale=en&layout=compact" alt="abdullah-yoy" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ABDULLAH-YOY/)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-yoy&show_icons=true&locale=en" alt="abdullah-yoy" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ABDULLAH-YOY/)](https://github.com/anuraghazra/github-readme-stats)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/ABDULLAH-YOY//contributions?format=svg&private=false)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-yoy&" alt="abdullah-yoy" /></p>
